@@ -1,0 +1,128 @@
+Dependencies for Project 'TouchScreen', Target 'BGH_TouchScreen': (DO NOT MODIFY !)
+F (.\main.c)(0x56F89951)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DBF060)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DBF056)
+I (..\..\..\..\inc/hw_ints.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_memmap.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_types.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_gpio.h)(0x54E7AE27)
+I (..\..\..\..\driverlib/fpu.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/sysctl.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/interrupt.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/rom.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/gpio.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/adc.h)(0x54E7AD7C)
+I (..\..\..\..\driverlib/timer.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/uart.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/pwm.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/pin_map.h)(0x54E7AD7D)
+I (..\..\..\..\grlib/grlib.h)(0x54E7AE1E)
+I (..\..\..\..\grlib/widget.h)(0x54E7AE1E)
+I (..\..\..\..\grlib/canvas.h)(0x54E7AE1D)
+I (..\..\..\..\grlib/pushbutton.h)(0x54E7AE1E)
+I (drivers/Kentec320x240x16_ssd2119_8bit.h)(0x533EF7B8)
+I (drivers/touch.h)(0x533EF7B8)
+I (..\..\..\..\utils/ustdlib.h)(0x54E7AE75)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x55DBF05E)
+I (C:\Keil_v5\ARM\ARMCC\include\time.h)(0x55DBF060)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\arm_math.h)(0x56266830)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x56267BEC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56266830)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56266830)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56266830)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56266830)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DBF058)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55DBF05E)
+I (AI/NeuralNetworkFunction.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DBF05E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DBF058)
+I (AI/rt_nonfinite.h)(0x5520C643)
+I (AI/rtwtypes.h)(0x5520C643)
+I (AI/NeuralNetworkFunction_types.h)(0x5520C643)
+F (.\drivers\Kentec320x240x16_ssd2119_8bit.c)(0x539FAC40)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\kentec320x240x16_ssd2119_8bit.o --omf_browse .\objects\kentec320x240x16_ssd2119_8bit.crf --depend .\objects\kentec320x240x16_ssd2119_8bit.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DBF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DBF060)
+I (..\..\..\..\inc/hw_gpio.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_ints.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_memmap.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_types.h)(0x54E7AE27)
+I (..\..\..\..\driverlib/gpio.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/epi.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/interrupt.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/sysctl.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/timer.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/rom.h)(0x54E7AD7D)
+I (..\..\..\..\grlib/grlib.h)(0x54E7AE1E)
+I (drivers\Kentec320x240x16_ssd2119_8bit.h)(0x533EF7B8)
+F (.\drivers\touch.c)(0x5457FF0C)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\touch.o --omf_browse .\objects\touch.crf --depend .\objects\touch.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DBF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DBF060)
+I (..\..\..\..\inc/hw_adc.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_gpio.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_ints.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_memmap.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_timer.h)(0x54E7AE27)
+I (..\..\..\..\inc/hw_types.h)(0x54E7AE27)
+I (..\..\..\..\driverlib/adc.h)(0x54E7AD7C)
+I (..\..\..\..\driverlib/gpio.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/interrupt.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/sysctl.h)(0x54E7AD7D)
+I (..\..\..\..\driverlib/timer.h)(0x54E7AD7D)
+I (..\..\..\..\grlib/grlib.h)(0x54E7AE1E)
+I (..\..\..\..\grlib/widget.h)(0x54E7AE1E)
+I (drivers\touch.h)(0x533EF7B8)
+F (.\RTE\Device\TM4C1294NCPDT\startup_rvmdk.S)(0x54F37AE8)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1" --pd "TM4C1294NCPDT SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (.\ustdlib.c)(0x54E7AE75)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\ustdlib.o --omf_browse .\objects\ustdlib.crf --depend .\objects\ustdlib.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DBF060)
+I (..\..\..\..\driverlib/debug.h)(0x54E7AD7C)
+I (..\..\..\..\utils/ustdlib.h)(0x54E7AE75)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x55DBF05E)
+I (C:\Keil_v5\ARM\ARMCC\include\time.h)(0x55DBF060)
+F (..\..\..\..\grlib\rvmdk\grlib.lib)(0x54E7AE27)()
+F (..\..\..\..\driverlib\rvmdk\driverlib.lib)(0x54E7AD7D)()
+F (.\AI\NeuralNetworkFunction.c)(0x563AF410)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\neuralnetworkfunction.o --omf_browse .\objects\neuralnetworkfunction.crf --depend .\objects\neuralnetworkfunction.d)
+I (AI\rt_nonfinite.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DBF05E)
+I (AI\rtwtypes.h)(0x5520C643)
+I (AI\NeuralNetworkFunction.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55DBF05E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DBF058)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DBF058)
+I (AI\NeuralNetworkFunction_types.h)(0x5520C643)
+F (.\AI\NeuralNetworkFunction_initialize.c)(0x5520C643)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\neuralnetworkfunction_initialize.o --omf_browse .\objects\neuralnetworkfunction_initialize.crf --depend .\objects\neuralnetworkfunction_initialize.d)
+I (AI\rt_nonfinite.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DBF05E)
+I (AI\rtwtypes.h)(0x5520C643)
+I (AI\NeuralNetworkFunction.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55DBF05E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DBF058)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DBF058)
+I (AI\NeuralNetworkFunction_types.h)(0x5520C643)
+I (AI\NeuralNetworkFunction_initialize.h)(0x5520C643)
+F (.\AI\NeuralNetworkFunction_terminate.c)(0x5520C643)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\neuralnetworkfunction_terminate.o --omf_browse .\objects\neuralnetworkfunction_terminate.crf --depend .\objects\neuralnetworkfunction_terminate.d)
+I (AI\rt_nonfinite.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DBF05E)
+I (AI\rtwtypes.h)(0x5520C643)
+I (AI\NeuralNetworkFunction.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55DBF05E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DBF058)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DBF058)
+I (AI\NeuralNetworkFunction_types.h)(0x5520C643)
+I (AI\NeuralNetworkFunction_terminate.h)(0x5520C643)
+F (.\AI\rt_nonfinite.c)(0x5520C643)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\rt_nonfinite.o --omf_browse .\objects\rt_nonfinite.crf --depend .\objects\rt_nonfinite.d)
+I (AI\rt_nonfinite.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DBF05E)
+I (AI\rtwtypes.h)(0x5520C643)
+I (AI\rtGetNaN.h)(0x5520C643)
+I (AI\rtGetInf.h)(0x5520C643)
+F (.\AI\rtGetInf.c)(0x5520C643)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\rtgetinf.o --omf_browse .\objects\rtgetinf.crf --depend .\objects\rtgetinf.d)
+I (AI\rtGetInf.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DBF05E)
+I (AI\rtwtypes.h)(0x5520C643)
+I (AI\rt_nonfinite.h)(0x5520C643)
+F (.\AI\rtGetNaN.c)(0x5520C643)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.. -I..\..\..\.. --c99-I C:\ti\TivaWare_C_Series-2.1.0.12573\examples\boards\my_tiva\TouchScreen\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="517" -D_RTE_ -DTM4C1294NCPDT -Drvmdk -DPART_TM4C1294NCPDT -DTARGET_IS_TM4C129_RA0-o .\objects\rtgetnan.o --omf_browse .\objects\rtgetnan.crf --depend .\objects\rtgetnan.d)
+I (AI\rtGetNaN.h)(0x5520C643)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DBF05E)
+I (AI\rtwtypes.h)(0x5520C643)
+I (AI\rt_nonfinite.h)(0x5520C643)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Lib\ARM\arm_cortexM4lf_math.lib)(0x56290450)()

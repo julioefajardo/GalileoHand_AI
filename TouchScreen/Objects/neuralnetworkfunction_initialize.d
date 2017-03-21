@@ -1,0 +1,10 @@
+.\objects\neuralnetworkfunction_initialize.o: AI\NeuralNetworkFunction_initialize.c
+.\objects\neuralnetworkfunction_initialize.o: AI\rt_nonfinite.h
+.\objects\neuralnetworkfunction_initialize.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\neuralnetworkfunction_initialize.o: AI\rtwtypes.h
+.\objects\neuralnetworkfunction_initialize.o: AI\NeuralNetworkFunction.h
+.\objects\neuralnetworkfunction_initialize.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\neuralnetworkfunction_initialize.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\neuralnetworkfunction_initialize.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\neuralnetworkfunction_initialize.o: AI\NeuralNetworkFunction_types.h
+.\objects\neuralnetworkfunction_initialize.o: AI\NeuralNetworkFunction_initialize.h

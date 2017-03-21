@@ -1,0 +1,17 @@
+.\objects\touch.o: drivers\touch.c
+.\objects\touch.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\touch.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\touch.o: ..\..\..\..\inc/hw_adc.h
+.\objects\touch.o: ..\..\..\..\inc/hw_gpio.h
+.\objects\touch.o: ..\..\..\..\inc/hw_ints.h
+.\objects\touch.o: ..\..\..\..\inc/hw_memmap.h
+.\objects\touch.o: ..\..\..\..\inc/hw_timer.h
+.\objects\touch.o: ..\..\..\..\inc/hw_types.h
+.\objects\touch.o: ..\..\..\..\driverlib/adc.h
+.\objects\touch.o: ..\..\..\..\driverlib/gpio.h
+.\objects\touch.o: ..\..\..\..\driverlib/interrupt.h
+.\objects\touch.o: ..\..\..\..\driverlib/sysctl.h
+.\objects\touch.o: ..\..\..\..\driverlib/timer.h
+.\objects\touch.o: ..\..\..\..\grlib/grlib.h
+.\objects\touch.o: ..\..\..\..\grlib/widget.h
+.\objects\touch.o: drivers\touch.h

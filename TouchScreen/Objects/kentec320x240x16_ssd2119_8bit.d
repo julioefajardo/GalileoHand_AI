@@ -1,0 +1,15 @@
+.\objects\kentec320x240x16_ssd2119_8bit.o: drivers\Kentec320x240x16_ssd2119_8bit.c
+.\objects\kentec320x240x16_ssd2119_8bit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\inc/hw_gpio.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\inc/hw_ints.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\inc/hw_memmap.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\inc/hw_types.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\driverlib/gpio.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\driverlib/epi.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\driverlib/interrupt.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\driverlib/sysctl.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\driverlib/timer.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\driverlib/rom.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: ..\..\..\..\grlib/grlib.h
+.\objects\kentec320x240x16_ssd2119_8bit.o: drivers\Kentec320x240x16_ssd2119_8bit.h

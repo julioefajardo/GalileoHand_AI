@@ -1,0 +1,18 @@
+--cpu Cortex-M4.fp
+".\objects\main.o"
+".\objects\kentec320x240x16_ssd2119_8bit.o"
+".\objects\touch.o"
+".\objects\startup_rvmdk.o"
+".\objects\ustdlib.o"
+"..\..\..\..\grlib\rvmdk\grlib.lib"
+"..\..\..\..\driverlib\rvmdk\driverlib.lib"
+".\objects\neuralnetworkfunction.o"
+".\objects\neuralnetworkfunction_initialize.o"
+".\objects\neuralnetworkfunction_terminate.o"
+".\objects\rt_nonfinite.o"
+".\objects\rtgetinf.o"
+".\objects\rtgetnan.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Lib\ARM\arm_cortexM4lf_math.lib"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\TouchScreen.map" -o .\Objects\TouchScreen.axf
